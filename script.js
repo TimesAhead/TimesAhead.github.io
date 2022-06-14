@@ -36,15 +36,15 @@ $(document).ready(function(){
     // typing text animation script
     var typed = new Typed(".typing", {
         strings: ["Forecasting sales", "Analysing Supply Chain", "Financial Modeling", "Improving Revenue Model", "Resource Management"],
-        typeSpeed: 100,
-        backSpeed: 60,
+        typeSpeed: 80,
+        backSpeed: 40,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
         strings: ["Artificial Intelligence", "Statistical Analysis", "Forecasting Models"],
-        typeSpeed: 100,
-        backSpeed: 60,
+        typeSpeed: 80,
+        backSpeed: 40,
         loop: true
     });
 
